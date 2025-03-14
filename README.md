@@ -9,7 +9,7 @@ Layoffs data analysis with a cleaned dataset and Power BI dashboard.
 
 ---
 
-### **🔹 Power BI Report Description (For End Users)**
+### **🔹 Power BI Report Description**
 📊 **Layoffs Analysis Dashboard**  
 This interactive dashboard analyzes **layoffs data across industries, countries, and funding levels**. Key insights include:  
 ✔️ **Trends over time** – Peak layoffs and affected industries  
